@@ -3,7 +3,7 @@
 
 The Domain Scanner program is a Python script designed to scan domains, search for successful connections, and save the results in a CSV file.
 
-#### **Prerequisites:
+#### ** Prerequisites:
 
 Python must be installed on your computer. You can download and install Python from the official website: https://www.python.org/downloads/
 A text file named "Wordlist.txt" must be present on your desktop. This file should contain a list of domains you wish to scan.
@@ -31,7 +31,7 @@ If you have any further questions or need assistance, feel free to ask. Happy do
 
 Das Domainscanner-Programm ist ein Python-Skript, das entwickelt wurde, um Domains zu scannen, nach erfolgreichen Verbindungen zu suchen und die Ergebnisse in einer CSV-Datei zu speichern.
 
-#### **Voraussetzungen:
+#### ** Voraussetzungen:
 
 Python muss auf Ihrem Computer installiert sein. Sie können Python von der offiziellen Website herunterladen und installieren: https://www.python.org/downloads/
 Eine Textdatei namens "Wordlist.txt" muss auf Ihrem Desktop vorhanden sein. Diese Datei sollte eine Liste von Domains enthalten, die Sie scannen möchten.
